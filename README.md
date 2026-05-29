@@ -43,7 +43,7 @@ olympic-athlete-analytics/
 │   └── olympics_analysis.ipynb     ← Exploratory analysis and insights
 │
 └── docs/
-    └── erd.png                     ← Entity Relationship Diagram
+    └── erd.jpg                     ← Entity Relationship Diagram
 ```
 
 ---
@@ -52,7 +52,7 @@ olympic-athlete-analytics/
 
 The database follows a **star schema** with one fact table and six dimension tables.
 
-![ERD](docs/erd.png)
+![ERD](docs/erd.jpg)
 
 ### Tables
 
