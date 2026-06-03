@@ -178,7 +178,31 @@ All tables imported successfully.
 
 ## Key Insights
 
-*Coming soon — to be derived from the analysis notebook.*
+### 1. Peak age varies across sports
+
+![Peak Age Analysis](docs/1_peak_age.png)
+
+- Rhythmic Gymnastics (Women): Median age 18  — narrowest performance window
+- Equestrianism (Men): Median age 35  — longest performance window
+- Most sports: 23–27 years
+- Gender difference: greater in physical sports, smaller in technical sports
+
+---
+
+### 2. Body profile similarity predicts viable career transitions
+
+![Body Profile Similarity](docs/2_sport_profiles_similarity.png)
+
+- **Badminton ↔ Hockey** is the most similar pair (distance 0.11). Badminton and hockey athletes have almost identical physical profiles in terms of height, weight and age.
+- **Judo ↔ Wrestling** and **Fencing ↔ Modern Pentathlon** as natural transitions. Both pairs combine similar body profiles with related movement requirements — structurally, these are the most plausible transition paths.
+
+---
+
+### 3. Age barely affects gold medal probability
+
+![Gold Medal by Age](docs/3_gold_medals_by_age.png)
+
+The decline is statistically significant but so slight that age alone is not a reliable predictor of medal success. Experience and tactical maturity largely compensate for the physical decline.
 
 ---
 
